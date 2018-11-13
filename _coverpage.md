@@ -1,4 +1,6 @@
-![logo](_media/logo.png)
+<!-- ![logo](_media/logo.png) -->
+
+# Laravel Scaffold
 
 > The base for developing awesome projects
 
