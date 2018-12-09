@@ -1,6 +1,6 @@
 # Install
 
-## Clone Modulr Repo
+## Clone Laravel Scaffold Repo
 
 ```bash
 $ git clone https://github.com/modulr/laravel-scaffold.git
